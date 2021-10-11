@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   ![](https://ks3-cn-beijing.ksyuncs.com/lingye-space/normalLife/github.gif)
 
-I am LingYe, my main direction is the front end at present, but also want to contribute to open source projects in the future.
+I am LingYe, my main direction is the frontend at present, but also want to contribute to open source projects in the future.
 
  If you have some intersting thoughts.  Please contact me.
 
