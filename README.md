@@ -28,7 +28,7 @@ I am LingYe, my main direction is the frontend at present, but also want to cont
 
  If you have some intersting thoughts.  Please contact me.
 
-* 🔭 I’m currently working on Central South University for Nationalities
+* 🔭 I’m currently studying on Central South University for Nationalities
 * 🌱 I’m currently learning Algorithm and JS principle.
 * 🤔 Emai me at 892104576@qq.com
 
