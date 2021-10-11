@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+I am LingYe, my main direction is the front end at present, but also want to contribute to open source projects in the future.
+
+ If you have some intersting thoughts.  Please contact me.
+
