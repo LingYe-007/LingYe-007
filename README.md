@@ -12,7 +12,7 @@ If you have some intersting thoughts.  Please contact me.🤣
 
 * 🌱 I’m currently learning  `Algorithm` and `JS principle`.
 
-* 🤔 Emai me at 892104576@qq.com
+* 🤔 Email me at 892104576@qq.com
 
 ------
 
