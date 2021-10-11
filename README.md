@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  ![](https://ks3-cn-beijing.ksyuncs.com/lingye-space/normalLife/github.gif)
-
 I am LingYe, my main direction is the frontend at present, but also want to contribute to open source projects in the future.
 
  If you have some intersting thoughts.  Please contact me.
@@ -31,4 +29,6 @@ I am LingYe, my main direction is the frontend at present, but also want to cont
 * 🔭 I’m currently studying on Central South University for Nationalities
 * 🌱 I’m currently learning Algorithm and JS principle.
 * 🤔 Emai me at 892104576@qq.com
+
+![](https://ks3-cn-beijing.ksyuncs.com/lingye-space/normalLife/github.gif)
 
